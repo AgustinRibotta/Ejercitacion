@@ -1,4 +1,6 @@
 # Reto #1: EL "LENGUAJE HACKER"
+# Enunciado
+
 
 """
 Escribe un programa que reciba un texto y transforme lenguaje natural a
